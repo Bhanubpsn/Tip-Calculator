@@ -19,3 +19,6 @@ This mini Project has the following features/tools ->
 -Use of Scaffold and Material Design.
 -Use of Themes.
 -Use of Slider Bar, TextField, Navigation Buttons.
+
+<img src = "https://github.com/Bhanubpsn/Images_for_projects/blob/master/Tip%20Calculator/Dark_Mode.jpg">
+<img src = "https://github.com/Bhanubpsn/Images_for_projects/blob/master/Tip%20Calculator/Light_Mode.jpg">

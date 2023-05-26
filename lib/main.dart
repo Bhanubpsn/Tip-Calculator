@@ -1,5 +1,5 @@
-import 'package:Tip Calculator/Tip_Calculator.dart';
-import 'package:Tip Calculator/util/colors.dart';
+import 'Tip_Calculator.dart';
+import 'util/colors.dart';
 import 'package:flutter/material.dart';
 
 

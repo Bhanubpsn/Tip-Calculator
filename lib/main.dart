@@ -1,7 +1,7 @@
-import 'package:bpsn/Projects_Course/Tip_Calculator.dart';
-import 'package:bpsn/util/colors.dart';
+import 'package:Tip Calculator/Tip_Calculator.dart';
+import 'package:Tip Calculator/util/colors.dart';
 import 'package:flutter/material.dart';
-import 'ui/Home.dart';
+
 
 //*****************************************************Slider/TextField/Theme dark and bright***************************************
 
